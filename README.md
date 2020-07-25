@@ -1,6 +1,6 @@
 
 ### Hello There
-[![Codys github stats](https://github-readme-stats.vercel.app/api?username=CodyClark07&theme=tokyonight)
+[![Codys github stats](https://github-readme-stats.vercel.app/api?username=CodyClark07&theme=tokyonight)]
 
 
 <!--
