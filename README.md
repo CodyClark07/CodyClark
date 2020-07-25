@@ -1,6 +1,6 @@
 
 ### Hello There
-![Codys github stats](https://github-readme-stats.vercel.app/api?username=CodyClark07&theme=tokyonight)
+![Codys github stats](https://github-readme-stats.vercel.app/api?username=CodyClark07&theme=tokyonight)(https://github.com/CodyClark07/github-readme-stats)
 <!--
 **ClarkCody/ClarkCody** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
