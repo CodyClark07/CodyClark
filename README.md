@@ -1,11 +1,10 @@
 
 ### Hello There
-![Codys github stats](https://github-readme-stats.vercel.app/api?username=CodyClark07&theme=tokyonight)]
+![Codys github stats](https://github-readme-stats.vercel.app/api?username=CodyClark07&theme=tokyonight)
+
+
 <!--
-**ClarkCody/ClarkCody** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
